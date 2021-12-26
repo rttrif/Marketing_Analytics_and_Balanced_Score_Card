@@ -51,12 +51,13 @@
 ## Youtube API
 
 - [How to Get a YouTube API Key & Put YouTube Content on Your Website](https://blog.hubspot.com/website/how-to-get-youtube-api-key)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [How to Extract YouTube Data using YouTube API in Python](https://www.thepythoncode.com/article/using-youtube-api-in-python)
+- [YouTube Data API v3 in Python: Tutorial with examples](https://medium.com/mcd-unison/youtube-data-api-v3-in-python-tutorial-with-examples-e829a25d2ebd)
+
+## Яндекс.Метрики
+
+- [API отчетов v1](https://yandex.ru/dev/metrika/doc/api2/api_v1/intro.html)
+- [Как выгрузить данные из Yandex Metrika с помощью Python?](https://python.ivan-shamaev.ru/extract-data-from-yandex-metric-using-python/)
 
 
 ## Various
