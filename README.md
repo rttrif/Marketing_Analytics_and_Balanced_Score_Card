@@ -50,7 +50,7 @@
 
 ## Youtube API
 
-- []()
+- [How to Get a YouTube API Key & Put YouTube Content on Your Website](https://blog.hubspot.com/website/how-to-get-youtube-api-key)
 - []()
 - []()
 - []()
