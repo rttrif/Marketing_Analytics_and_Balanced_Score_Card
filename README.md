@@ -38,3 +38,26 @@
 #### With Code 
 - [Developing Scorecards in Python using OptBinning](https://towardsdatascience.com/developing-scorecards-in-python-using-optbinning-ab9a205e1f69)
 - [bscscan-python](https://github.com/pcko1/bscscan-python)
+
+# API's
+
+- [API connection to Dash Web App - Python Plotly (Weather)](https://www.youtube.com/watch?v=NEMDvIUaI6A)
+
+## Facebook + Instagram Insights API
+- [Python HOW: Getting Facebook Data and Insights Using facebook-sdk](https://drgabrielharris.medium.com/python-how-getting-facebook-data-and-insights-using-facebook-sdk-9de14d3c12fb)
+- [Guide to Facebook Insights API](https://www.damiengonot.com/blog/guide-facebook-insights-api)
+- [Discover Insights from Your Instagram Business Account with Facebook Graph API and Python](https://towardsdatascience.com/discover-insights-from-your-instagram-business-account-with-facebook-graph-api-and-python-81d20ee2e751)
+
+## Youtube API
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+## Various
+- [How I built a dashboard with Dash and YouTube API to track music video trends in Uganda.](https://nakaweesijogiajo.medium.com/how-i-built-a-dashboard-with-dash-and-plotly-for-tracking-music-videos-in-uganda-45a313860a0)
