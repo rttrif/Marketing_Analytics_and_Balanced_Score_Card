@@ -62,3 +62,7 @@
 
 ## Various
 - [How I built a dashboard with Dash and YouTube API to track music video trends in Uganda.](https://nakaweesijogiajo.medium.com/how-i-built-a-dashboard-with-dash-and-plotly-for-tracking-music-videos-in-uganda-45a313860a0)
+
+# Clean Architecture for AI/ML Applications using Dash and Plotly
+
+[Clean Architecture for AI/ML Applications using Dash and Plotly with Docker](https://towardsdatascience.com/clean-architecture-for-ai-ml-applications-using-dash-and-plotly-with-docker-42a3eeba6233)
